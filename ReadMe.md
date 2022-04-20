@@ -19,6 +19,9 @@ WEPPcloud was mainly developed for forestry applications as a joint effort betwe
 - [wepppy-win-bootstrap](https://github.com/rogerlew/wepppy-win-bootstrap) for local runs
 - [wepppy](https://github.com/rogerlew/wepppy) the opensource project that powers WEPPcloud
 
+## Video Tutorials
+We have [Short Video Tutorials](https://www.youtube.com/channel/UChT3xkGp339zflrC0tlHSug/videos) on YouTube.
+
 ## Help / Feedback
 
 For general assistance or questions please contact Mariana Dobre at mdobre@uidaho.edu. 
