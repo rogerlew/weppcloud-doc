@@ -180,6 +180,25 @@ WEPPcloud is a Python Flask web interface for running WEPP (and other hydrologic
   <tr><th>Date</th><th>Notable Change</th></tr>
 </thead>
 <tbody>
+<tr><td>July 7, 2022</td><td>Table of Contents for page. TotalWatSed2. Runs page view optimizations.</td></tr>
+<tr><td>May 18, 2022</td><td>RAP v3 adapters</td></tr>
+<tr><td>May 2, 2022</td><td>Last SSURGO layer rounded up to nearest 200mm. Alpha Multi OFE support.</td></tr>
+<tr><td>Apr 28, 2022</td><td>Anurag Ash model.</td></tr>
+<tr><td>Apr 8, 2022</td><td>Location hash and Scenario property for projects.</td></tr>
+<tr><td>Apr 7, 2022</td><td>Cligen rev to 5.32.1 fix for leap years. Bug fix for arc export with ash model results.</td></tr>
+<tr><td>Apr 7, 2022</td><td>Cligen rev to 5.32.1 fix for leap years</td></tr>
+<tr><td>Mar 25, 2022</td><td>Workaround fix for wepp loss summary files reporting 0 area</td></tr>
+<tr><td>Mar 24, 2022</td><td>ERMiT export include rock content.</td></tr>
+<tr><td>Feb 11, 2022</td><td>WEPPcloudR routes added.</td></tr>
+<tr><td>Feb 9, 2022</td><td>Improved SBS break detection.</td></tr>
+<tr><td>Nov 11, 2021</td><td>Soils ksflag set to 0 by default. Return periods report shows Gregorian years.</td></tr>
+<tr><td>Nov 4, 2021</td><td>Bug fix for running single storm with flowpaths. PRISM surrounding bug fix for monthly ppt</td></tr>
+<tr><td>Nov 3, 2021</td><td>EU-Disturbed soil building with rosetta.</td></tr>
+<tr><td>Oct 26, 2021</td><td>EU-Disturbed available.</td></tr>
+<tr><td>Oct 1, 2021</td><td>WEPP version with TCR model/td></tr>
+<tr><td>May 28, 2021</td><td>HillPass parsing for files containing scientific notation. Tree canopy cover from NLCD. Lateral Flow added to TotalWaterBalance. Fix to  compute erodibility when the horizons are built.</td></tr>
+<tr><td>Apr 1, 2021</td><td>County Soils DB Updated./td></tr>
+<tr><td>Mar 2, 2021</td><td>Ash model updated. Climates can incorporate wind speed and direction from GRIDMET./td></tr>
 <tr><td>December 8, 2020</td><td>TauDEM alpha release. Ash Transport gridded alpha release. Fractional zoom for map. Disturbed has ability to remove SBS. Channel shape export has discharge in m^3. Some other miscellaneous changes.</td></tr>
 <tr><td>Noveber 19, 2020</td><td>Tillage and surface effects removed from Tahoe/Disturbed WEPP files.</td></tr>
 <tr><td>November 18, 2020</td><td>All channel managements set to a default management specific for channels instead
